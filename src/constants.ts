@@ -36,7 +36,7 @@ export const actions = [
 
   {
     title: "DOWNLOAD CV",
-    link: "#contact",
+    link: "static/cv.pdf",
   },
 ];
 
